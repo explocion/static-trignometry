@@ -1,0 +1,3 @@
+[workspace]
+members = ["static-trignometry", "static-trignometry-macros"]
+resolver = "2"
